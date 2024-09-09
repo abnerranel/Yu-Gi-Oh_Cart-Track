@@ -11,7 +11,7 @@ By TchernobiL.
 
 ## Como Usar
 Segue como usar (somente windows)
-1. Download a ultima release
+1. Download da ultima release
 2. Extrair o zip
 3. Ao abrir o "Card-Library-FM.exe" clicar no botão "MemCard" e selecionar o arquivo de memory card (tipos suportados .SAVERAM, .mcr, ou .gme)
 
