@@ -14,6 +14,7 @@ Segue como usar (somente windows)
 1. Download da ultima release
 2. Extrair o zip
 3. Ao abrir o "Card-Library-FM.exe" clicar no botão "MemCard" e selecionar o arquivo de memory card (tipos suportados .SAVERAM, .mcr, ou .gme)
+4. O app ordena as cartas que vc ja tem no final da lista
 
 **Nota:** Você precisa acessar o menu LIBRARY antes de salvar pois o jogo não atualiza no memory card sozinho.
 
